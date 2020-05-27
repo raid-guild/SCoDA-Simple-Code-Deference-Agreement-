@@ -1,6 +1,6 @@
 # DAO CHARTER
  
-## FOR THE ___________ /*INSERT NAME OF DAO*/ DAO
+## FOR THE RaidGuild DAO
 
 
 ---
@@ -22,17 +22,17 @@ By reading, transmitting or copying this document or any portion thereof, you co
 
 ###  I. NATURE OF DAO CHARTER
 
- (a) This charter (this “***Charter***”) is the official legal charter of the ___________ /*INSERT NAME OF DAO*/ (the “***DAO***”). This Charter is intended to be a legal agreement & contract binding upon all DAO Members and the other DAO Participants, enforceable in accordance with its terms under the laws of ___________ /*INSERT NAME OF LEGAL JURISDICTION*/. Certain capitalized terms used in this Charter are defined in Section 6. 
+ (a) This charter (this “***Charter***”) is the official legal charter of the RaidGuild (the “***DAO***”). This Charter is intended to be a legal agreement & contract binding upon all DAO Members and the other DAO Participants, enforceable in accordance with its terms under the laws of the US. Certain capitalized terms used in this Charter are defined in Section 6. 
 
   (b) If you have received any DAO Membership Token or are otherwise a DAO Member, you consent to & agree to become legally bound by this Charter as both a DAO Participant and more specifically a "***DAO Member***".    
   
 ###  II. NAME, PURPOSES AND STRUCTURE OF THE DAO
  
- (a) The name of the DAO is ___________ /*INSERT NAME OF DAO*/.
+ (a) The name of the DAO is RaidGuild.
  
  (b) The DAO is a "decentralized autonomous organization"--i.e., an unincorporated association of individuals, entities, associations and/or other persons or groups of persons.
  
- (c) The activities and purposes to be conducted or promoted by the DAO are described at [________]() /*ADD HTML LINK TO DESCRIPTION OF DAO PURPOSES OR MISSION STATEMENT*/, as they may be updated from time to time in accordance with this Charter (the "***Purposes***"). 
+ (c) The activities and purposes to be conducted or promoted by the DAO are described at [https://raidguild.org/], as they may be updated from time to time in accordance with this Charter (the "***Purposes***"). 
  
  (d) The DAO is not intended to, and shall not be deemed to, be a legal person or have a legal personality separate from the DAO Members. Without limiting the generality of the foregoing, the DAO is not intended to be, and shall not be deemed to be, a partnership. 
  
@@ -44,7 +44,7 @@ By reading, transmitting or copying this document or any portion thereof, you co
 
  (b) Membership rights in the DAO shall be represented by Tokens (the "***DAO Membership Tokens***") minted and issued through the Designated Smart Contract. 
 
- (c) DAO Members shall have the rights, powers and privileges that are possible to be taken or exercised by DAO Members through the Designated Smart Contract as further set forth in Section 4. Additionally, DAO Memrs shall have the rights, powers and privileges set forth at [________]() /*ADD HTML LINK TO DESCRIPTION OF DAO PURPOSES OR MISSION STATEMENT*/, as they may be updated from time to time in accordance with this Charter. The rights, powers and privileges of DAO Members are referred to herein as the "***DAO Membership Rights***".
+ (c) DAO Members shall have the rights, powers and privileges that are possible to be taken or exercised by DAO Members through the Designated Smart Contract as further set forth in Section 4. Additionally, DAO Memrs shall have the rights, powers and privileges set forth at [https://raidguild.org/], as they may be updated from time to time in accordance with this Charter. The rights, powers and privileges of DAO Members are referred to herein as the "***DAO Membership Rights***".
 
  (d) Status as a DAO Member does not (and shall not be deemed to) create, and the DAO Membership Rights do not (and shall not be deemed to) include, any authority, right or power on the part of a DAO Member to act as the agent, representative or attorney of or otherwise act on behalf of the DAO or any other DAO Member, to bind the DAO or any other DAO Member to any Contract or Liability or to Convey any DAO Property or any asset, right or property owned or held by or on behalf of the DAO or any DAO Member.  Without limiting the generality of the foregoing, no DAO Member shall be deemed the partner of the DAO or any other DAO Member. No DAO Member shall state, purport, imply, hold out or represent to any person that such DAO Member or any other DAO Member has any such authority, right or power.  
  
@@ -94,7 +94,7 @@ By reading, transmitting or copying this document or any portion thereof, you co
 
    (B) During the continuous 10-day period beginning on the date of delivery of hte Exception Notice (the “***Negotiation Period***”), the DAO Members shall use commercially reasonable efforts to negotiate in good faith to agree upon the existence or non-existence of a Material Adverse Exception Event and, if so agreed, the actions to be taken, the agreements to be entered into and the remedies to be sought by the DAO Members in response to the Material Adverse Exception Event. If the DAO Members agree upon such matters during the Negotiation Period, the DAO Members shall promptly enter into an Exception Handling Addendum reflecting the same.
 
-   (C) If the DAO Members fail to reach an agreement resulting in an Exception Handling Addendum during the Negotiation Period, then either DAO Member may initiate an arbitration action to resolve the issues in accordance with the procedures set forth at [________]() /*ADD HTML LINK TO DESIRED ARBITRATION PROCEDURES*/ (the “***Arbitration Procedures***”). The decision resulting from the Arbitration Procedures shall include, among any other determinations, a determination of the treatment of any Distributed DAO Property and whether to extend, modify or terminate the covenants applying to the Distributed DAO Property during the Standstill Period. The decision resulting from the Arbitration Procedures shall be non- appealable, binding and conclusive upon the DAO Members. Judgment upon such decision may be entered in any court of competent jurisdiction.
+   (C) If the DAO Members fail to reach an agreement resulting in an Exception Handling Addendum during the Negotiation Period, then either DAO Member may initiate an arbitration action to resolve the issues in accordance with the procedures set forth at [https://raidguild.org/] (the “***Arbitration Procedures***”). The decision resulting from the Arbitration Procedures shall include, among any other determinations, a determination of the treatment of any Distributed DAO Property and whether to extend, modify or terminate the covenants applying to the Distributed DAO Property during the Standstill Period. The decision resulting from the Arbitration Procedures shall be non- appealable, binding and conclusive upon the DAO Members. Judgment upon such decision may be entered in any court of competent jurisdiction.
 
 ### V. Representations and Warranties
 
@@ -118,7 +118,7 @@ Each DAO Member (as the "***Representing DAO Member***") hereby represents and w
 
 (b) “**Claim**” means any past, present or future dispute, claim, controversy, demand, right, obligation, liability, action or cause of action of any kind or nature. 
 
-(c) “**Confirmation**” of a transaction shall be deemed to have occurred if and only if such transaction has been recorded in accordance with the Consensus Rules in a valid block whose hashed header is referenced by at least _________ /*ADJUST BASED ON DESIGNATED BLOCKCHAIN SECURITY MODEL ETC.*/ subsequent valid blocks on the Designated Blockchain. 
+(c) “**Confirmation**” of a transaction shall be deemed to have occurred if and only if such transaction has been recorded in accordance with the Consensus Rules in a valid block whose hashed header is referenced by at least 69 subsequent valid blocks on the Designated Blockchain. 
 
 (d) “**Consensus Attack**” means an attack that: (i) is undertaken by or on behalf of a block producer who controls, or group of cooperating block producers who collectively control, a preponderance of the means of block production on the Designated Blockchain Network; and (ii) has the actual or intended effect of: (A) reversing any transaction made to or by the Designated Smart Contract after Confirmation of such transaction, including any “double spend” attack having or intended to have such effect; or (B) preventing inclusion in blocks or Confirmation of any transaction made to or by the Designated Smart Contract, including any “censorship attack,” “transaction withholding attack” or “block withholding attack” having or intended to have such effect.  
 
@@ -128,13 +128,13 @@ Each DAO Member (as the "***Representing DAO Member***") hereby represents and w
 
 (g) “**DAO Property** means any Token or other asset, right or property licensed to or on deposit with or owned, held, custodied, controlled or possessed by or on behalf of the DAO, including any Token on deposit with or held, controlled, possessed by or on deposit with the Designated Smart Contract.  
  
-(h) “**Designated Blockchain**” means at any give time, the version of the digital blockchain ledger that at least a majority of nodes running the Designated Client on the Designated Blockchain Network recognize as canonical as of such time in accordance with the Consensus Rules. For the avoidance of doubt, the “Designated Blockchain” does not refer to [____________] /*INSERT ANY APPLICABLE REFERENCES TO COMMONLY KNOWN FORKS--E.G., ETHEREUM CLASSIC*/ or any digital blockchain ledger commonly known as a  “testnet”. 
+(h) “**Designated Blockchain**” means at any give time, the version of the digital blockchain ledger that at least a majority of nodes running the Designated Client on the Designated Blockchain Network recognize as canonical as of such time in accordance with the Consensus Rules. For the avoidance of doubt, the “Designated Blockchain” does not refer to [ETHEREUM CLASSIC] or any digital blockchain ledger commonly known as a  “testnet”. 
 
-(i) “**Designated Blockchain Network**” means [____________] /*INSERT REFERENCE TO DESIRED BLOCKCHAIN NETWORK--E.G. “the Ethereum mainnet (networkID:1, chainID:1)”*/, as recognized by the Designated Client. 
+(i) “**Designated Blockchain Network**” means [the Ethereum mainnet (networkID:1, chainID:1)], as recognized by the Designated Client. 
 
-(j) “**Designated Client**” means [____________] /*INSERT REFERENCE TO DESIRED BLOCKCHAIN CLIENT--E.G. “the Official Go Ethereum client available at https://github.com/ethereum/go-ethereum” CAN ALSO REVISE FOR MULTIPLE CLIENTS--E.G., HAVE 3 DESIGNATED CLIENTS AND SAY THAT THE DESIGNATED BLOCKCHAIN IS THE ONE AGREED UPON  BY 2-OF-3.*/. 
+(j) “**Designated Client**” means [the Official Go Ethereum client available at https://github.com/ethereum/go-ethereum]. 
 
-(k) “**Designated Smart Contract**” means the smart contract deployed at address [____________] /*INSERT REFERENCE TO ADDRESS OF DEPLOYED SMART CONTRACT*/ on the Designated Blockchain. 
+(k) “**Designated Smart Contract**” means the smart contract deployed at address [0xbeb3e32355a933501c247e2dbde6e6ca2489bf3d]  on the Designated Blockchain. 
 
 (l) “**Distributed DAO Property**” means any asset, right or property that was once DAO Property and has been distributed to a DAO Member.
 
@@ -152,7 +152,7 @@ Each DAO Member (as the "***Representing DAO Member***") hereby represents and w
 
 (ii) the Designated Smart Contract having become inoperable, inaccessible or unusable, including as the result of any code library or repository incorporated by reference into the Designated Smart Contract or any other smart contract or oracle on which the Designated Smart Contract depends having become inoperable, inaccessible or unusable or having itself suffered a Material Adverse Exception Event, mutatis mutandis;  
 
-(iii) a material and adverse effect on the use, functionality or performance of the Designated Smart Contract as the result of any bug, defect or error in the Designated Smart Contract or the triggering, use or exploitation (whether intentional or unintentional) thereof (it being understood that for purposes of this clause “(iii)”, a bug, defect or error will be deemed material only if it results in a loss to a DAO Member or the DAO of at least ___ percent of such DAO Memvber's distributable interest in the DAO Property and/or __ percent of the DAO Property); 
+(iii) a material and adverse effect on the use, functionality or performance of the Designated Smart Contract as the result of any bug, defect or error in the Designated Smart Contract or the triggering, use or exploitation (whether intentional or unintentional) thereof (it being understood that for purposes of this clause “(iii)”, a bug, defect or error will be deemed material only if it results in a loss to a DAO Member or the DAO of at least 100 percent of such DAO Member's distributable interest in the DAO Property and/or 100 percent of the DAO Property); 
 
 (iv) any unauthorized use of an administrative function or privilege of the Designated Smart Contract, including: (A) any use of any administrative credential, key, password, account or address by a Person who has misappropriated or gained unauthorized access to such administrative credential, key, password, account or address or (B) any unauthorized use of an administrative function or privilege by a DAO Member or a representative of a DAO Member; or  
 
@@ -174,4 +174,4 @@ Each DAO Member (as the "***Representing DAO Member***") hereby represents and w
 
 (f) *Disputes; Mandatory Arbitration.* Any Legal Proceeding, Claim or other dispute or controversy arising out of or relating to this Charter, its enforcement, or the breach thereof shall be finally resolved by binding arbitration in accordance with the Arbitration Procedures; *provided, however*, that any DAO Member may seek injunctive relief in aid of arbitration in order to prevent irreparable harm or preserve the status quo. EACH DAO MEMBER HEREBY IRREVOCABLY WAIVES ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM WHETHER BASED ON CONTRACT, TORT OR OTHERWISE) ARISING OUT OF OR RELATING TO THIS CHARTER, THE DESIGNATED SMART CONTRACT, THE DAO MATTERS OR THE ACTIONS OF THE DAO MEMBERS IN THE NEGOTIATION, ADMINISTRATION, PERFORMANCE AND ENFORCEMENT OF THIS CHARTER.
 
-(g) *Governing Law.* All rights and obligations hereunder will be governed by the laws of _____________ /*INSERT DESCRIPTION OF LEGAL JURISDICTION--E.G. "the State of Delaware"*/, without regard to the conflicts of law provisions thereof.
+(g) *Governing Law.* All rights and obligations hereunder will be governed by the laws of the State of Delaware, without regard to the conflicts of law provisions thereof.
